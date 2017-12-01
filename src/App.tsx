@@ -19,7 +19,7 @@ const appStyles = StyleSheet.create({
     },
 });
 
-export default class App extends React.Component<object, object> {
+export default class App extends React.Component {
     public render() {
         return ( // this stupid ( is here to allow me to start breaking my return from the next line.
             <View style={appStyles.container}>
