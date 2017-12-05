@@ -3,7 +3,7 @@
 ## Want to play with this code
 
 1. Download/Clone it.
-1. Open a terminal and enter `$> cd <cloned-folder>/1.helloworld/`
+1. Open a terminal and enter `$> cd <hello_world_folder>/`
 1. Then `$> npm install` (this will set up the dependencies for your project)
 1. To start React-Native packager type: `$> react-native start` (it will block the terminal as it will be running a web server)
 1. In a new terminal type in the same folder: `$> react-native run-ios` or `$> react-native run-android` (depends on the version you want to run)
